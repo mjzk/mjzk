@@ -5,4 +5,4 @@ MJZK, is an expert of Rust, database, bigdata, AIGC, high-performance backend, l
 Recently, he is focusing on blockchain infra techs, including Ethereum, L2s(Reth), consensus, EVM, Parallel EVM, Rollups, Solana, smart contracts, ZK and any above web2 and web3 tech mix.
 
 If you are interested in talking with him, contact via the email:
-mj@mjzk.xyz or tg: @mjzkxyz
+mj@mjzk.xyz or tg: [@mjzkxyz](https://t.me/mjzkxyz)
